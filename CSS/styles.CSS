@@ -1,0 +1,117 @@
+hr {
+  color: white;
+}
+
+img:hover {
+    opacity: 0.85;
+}
+
+h2 {
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+#blueGreen {
+    background-color: #263F44;
+    color: white;
+    text-align: center;
+}
+
+#white {
+    background-color: white;
+    color: #263F44;
+    text-align: center;
+}
+
+#navigation {
+    background-color: #263F44;
+    color: white;
+    text-align: center;
+}
+
+#features {
+    padding: 3% 10%;
+}
+
+#testimonials {
+    background-color: #263F44;
+    text-align: center;
+    color: white;
+}
+
+#sellingStuff {
+    padding: 5% 5%;
+    text-align: center;
+}
+
+.hook {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.navbar {
+    padding-bottom: 2.5rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+.col {
+    padding: 5%;
+}
+
+.feature-box {
+    padding: 5%;
+    text-align: center;
+}
+
+.icon {
+    color:  #263F44;
+    opacity: 0.7;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    opacity: 1.0;
+}
+
+.bioPicTed {
+    height: 325px;
+    width: 295px;
+}
+
+.bioPicHills {
+    height: 405px;
+    width: 275px;
+}
+
+
+.carousel-item {
+    padding: 15%, 15%;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.price-cards {
+    padding: 75px;
+}
+
+@media (max-width: 900px){
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+      font-size: 1rem;
+    }
+
+}
